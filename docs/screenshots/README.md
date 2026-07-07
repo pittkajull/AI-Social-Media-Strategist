@@ -1,33 +1,44 @@
-# Screenshots Placeholder
+# Screenshots
 
 Folder ini berisi screenshot untuk dokumentasi dan presentasi.
 
-## Screenshots yang Diperlukan
+## Daftar Screenshot
 
 ### 1. Workflow Screenshots
 
-- `workflow-1-generate-publish.png` — Canvas workflow generate & publish di n8n
-- `workflow-2-tracking.png` — Canvas workflow tracking performa
-- `workflow-3-backup.png` — Canvas workflow backup knowledge
+| File | Deskripsi |
+|------|-----------|
+| [WF1_Nara.png](WF1_Nara.png) | Canvas workflow Generate & Publish di n8n |
+| [WF2_Nara.png](WF2_Nara.png) | Canvas workflow Tracking Performa di n8n |
+| [WF3_Nara.png](WF3_Nara.png) | Canvas workflow Backup Knowledge di n8n |
 
-### 2. Database Screenshots
+### 2. Platform Screenshots
 
+| File | Deskripsi |
+|------|-----------|
+| [Buffer.png](Buffer.png) | Dashboard Buffer untuk publishing ke Threads |
+
+---
+
+## Screenshot yang Belum Tersedia
+
+### Database Screenshots
 - `supabase-dashboard.png` — Dashboard Supabase
 - `knowledge-table.png` — Sample data di table knowledge
 - `ideas-table.png` — Sample data di table ideas
 - `history-table.png` — Sample data di table history
 - `metrics-table.png` — Sample data di table metrics
 
-### 3. Content Screenshots
-
+### Content Screenshots
 - `threads-content-sample.png` — Contoh konten yang di-post di Threads
 - `engagement-metrics.png` — Data engagement dari Buffer
 
-### 4. Architecture Diagrams
-
+### Architecture Diagrams
 - `system-architecture.png` — Diagram arsitektur lengkap
 - `data-flow-diagram.png` — Diagram alur data
 - `ai-roles-diagram.png` — Diagram ketiga peran AI
+
+---
 
 ## Cara Mengambil Screenshot
 
@@ -46,6 +57,8 @@ Folder ini berisi screenshot untuk dokumentasi dan presentasi.
 1. Buka post di Threads
 2. Tampilkan engagement count
 3. Screenshot dalam mode light mode (lebih clean)
+
+---
 
 ## Format dan Resolusi
 
